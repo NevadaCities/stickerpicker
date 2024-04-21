@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "suzume_bili.json",
+    "suzumi_bili_2.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
