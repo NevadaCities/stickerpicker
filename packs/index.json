@@ -1,7 +1,8 @@
 {
   "packs": [
     "suzume_bili.json",
-    "suzumi_bili_2.json"
+    "suzumi_bili_2.json",
+    "mafuyu_twitch.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
